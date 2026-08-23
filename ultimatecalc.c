@@ -182,3 +182,9 @@ int main() {
 
     return 0;
 }
+
+![Output of the ultimate caluclator will look like](path/to/your/image.png)
+
+
+
+    
