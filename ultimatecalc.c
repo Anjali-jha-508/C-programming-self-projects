@@ -182,9 +182,3 @@ int main() {
 
     return 0;
 }
-
-[Click here to view the image](Screenshot 2026-08-23 211723.png/to/image.png)
-
-
-
-    
