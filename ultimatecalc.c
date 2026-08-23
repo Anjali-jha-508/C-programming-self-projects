@@ -183,7 +183,7 @@ int main() {
     return 0;
 }
 
-![Output of the ultimate caluclator will look like](Screenshot 2026-08-23 211723.png)
+[Click here to view the image](path/to/image.png)
 
 
 
